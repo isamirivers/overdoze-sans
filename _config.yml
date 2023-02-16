@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: overdoze sans
 description: handwritten font by IsamiRi
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
